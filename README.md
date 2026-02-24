@@ -119,15 +119,22 @@ Tenho interesse em desenvolvimento de sistemas, criação de sites e soluções 
 
 
 <div align="center">
+
+  <p>
+    <img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/acairesm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/>
+    <img alt="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/acairesm?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&logoColor=white"/>
+  </p>
+
   <img
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acairesm&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    alt="GitHub Stats"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acairesm&theme=tokyonight&commits_year=2025&"
+    alt="Stats Card"
   />
   <img width="12" />
   <img
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=acairesm&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    alt="Top Langs"
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=acairesm&theme=tokyonight"
+    alt="Repos per Language"
   />
+
 </div>
