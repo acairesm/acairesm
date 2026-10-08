@@ -1,6 +1,6 @@
 ﻿# 👩🏻‍💻 André Caires
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo André Caires e sou estudante de Engenharia de Software na Universidade Positivo. Atualmente, estou no quinto período e tenho previsão de formação para 2027. Sou apaixonado por tecnologia e estou sempre buscando aprender mais, tanto nos estudos quanto na prática, desenvolvendo projetos e aprimorando minha lógica de programação.
 
